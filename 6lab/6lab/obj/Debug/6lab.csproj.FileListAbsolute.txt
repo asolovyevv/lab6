@@ -1,0 +1,11 @@
+C:\Users\savto\OneDrive\Документы\1 курс\c ex\6lab\6lab\bin\Debug\6lab.exe.config
+C:\Users\savto\OneDrive\Документы\1 курс\c ex\6lab\6lab\bin\Debug\6lab.exe
+C:\Users\savto\OneDrive\Документы\1 курс\c ex\6lab\6lab\bin\Debug\6lab.pdb
+C:\Users\savto\OneDrive\Документы\1 курс\c ex\6lab\6lab\obj\Debug\6lab.csproj.AssemblyReference.cache
+C:\Users\savto\OneDrive\Документы\1 курс\c ex\6lab\6lab\obj\Debug\6lab.csproj.SuggestedBindingRedirects.cache
+C:\Users\savto\OneDrive\Документы\1 курс\c ex\6lab\6lab\obj\Debug\_6lab.Properties.Resources.resources
+C:\Users\savto\OneDrive\Документы\1 курс\c ex\6lab\6lab\obj\Debug\6lab.csproj.GenerateResource.cache
+C:\Users\savto\OneDrive\Документы\1 курс\c ex\6lab\6lab\obj\Debug\6lab.csproj.CoreCompileInputs.cache
+C:\Users\savto\OneDrive\Документы\1 курс\c ex\6lab\6lab\obj\Debug\6lab.exe
+C:\Users\savto\OneDrive\Документы\1 курс\c ex\6lab\6lab\obj\Debug\6lab.pdb
+C:\Users\savto\OneDrive\Документы\1 курс\c ex\6lab\6lab\obj\Debug\_6lab.frmРедактор.resources
