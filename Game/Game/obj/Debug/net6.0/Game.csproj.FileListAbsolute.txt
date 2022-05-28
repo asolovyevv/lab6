@@ -1,0 +1,15 @@
+C:\Users\savto\OneDrive\Документы\1 курс\С#\Занятие_03\Game\Game\obj\Debug\net6.0\Game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\savto\OneDrive\Документы\1 курс\С#\Занятие_03\Game\Game\obj\Debug\net6.0\Game.AssemblyInfoInputs.cache
+C:\Users\savto\OneDrive\Документы\1 курс\С#\Занятие_03\Game\Game\obj\Debug\net6.0\Game.AssemblyInfo.cs
+C:\Users\savto\OneDrive\Документы\1 курс\С#\Занятие_03\Game\Game\obj\Debug\net6.0\Game.csproj.CoreCompileInputs.cache
+C:\Users\savto\OneDrive\Документы\1 курс\С#\Занятие_03\Game\Game\bin\Debug\net6.0\Game.exe
+C:\Users\savto\OneDrive\Документы\1 курс\С#\Занятие_03\Game\Game\bin\Debug\net6.0\Game.deps.json
+C:\Users\savto\OneDrive\Документы\1 курс\С#\Занятие_03\Game\Game\bin\Debug\net6.0\Game.runtimeconfig.json
+C:\Users\savto\OneDrive\Документы\1 курс\С#\Занятие_03\Game\Game\bin\Debug\net6.0\Game.dll
+C:\Users\savto\OneDrive\Документы\1 курс\С#\Занятие_03\Game\Game\bin\Debug\net6.0\ref\Game.dll
+C:\Users\savto\OneDrive\Документы\1 курс\С#\Занятие_03\Game\Game\bin\Debug\net6.0\Game.pdb
+C:\Users\savto\OneDrive\Документы\1 курс\С#\Занятие_03\Game\Game\obj\Debug\net6.0\Game.dll
+C:\Users\savto\OneDrive\Документы\1 курс\С#\Занятие_03\Game\Game\obj\Debug\net6.0\ref\Game.dll
+C:\Users\savto\OneDrive\Документы\1 курс\С#\Занятие_03\Game\Game\obj\Debug\net6.0\Game.pdb
+C:\Users\savto\OneDrive\Документы\1 курс\С#\Занятие_03\Game\Game\obj\Debug\net6.0\Game.genruntimeconfig.cache
+C:\Users\savto\OneDrive\Документы\1 курс\С#\Занятие_03\Game\Game\obj\Debug\net6.0\Game.csproj.AssemblyReference.cache
